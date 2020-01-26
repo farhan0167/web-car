@@ -1,2 +1,4 @@
 *.dylibs filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
+*.python linguist-detectable=true
+*.js linguist-detectable=true
