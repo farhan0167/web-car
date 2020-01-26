@@ -29,10 +29,16 @@ learning algorithms but that is beyond the scope of this project. <br/> <br/>
    
     -**ui**: This folder contains the React files which make up the frontend of my website.
 ### Using The Notebooks:
-1. Go to the service/venv folder from your command line with the code ` cd service/venv `.
-2. Activate the environment and run Jupyter Notebook:
+1. Go to the service folder from your command line with the code ` cd service `.
+2. Create a virtual environment and install all the requirements:
 ```
-source bin/activate
+cd service
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
+``` 
+2. Run Jupyter Notebook:
+```
 jupyter notebook
 ```
 
@@ -44,10 +50,9 @@ jupyter notebook
 You can go to ` http://localhost:3000/ ` to see the ui. 
 
 2. Now that the ui is running, you would need to run the flask backend which will serve the website.
-Go to the service folder from the command line, and then to venv, running the following: <br/>
+Go to the service folder from a new command line by running the following: <br/>
 ```
-cd service/venv
-source bin/activate
+. venv/bin/activate
 FLASK_APP=app.py flask run
 ```
 The server should be running on ` http://127.0.0.1:5000/ `. Now you can go back to ` http://localhost:3000/ ` to use the 
