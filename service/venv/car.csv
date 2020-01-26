@@ -1,0 +1,421 @@
+brand,model,model_yr,condition,body,fuel_type,engine_cap,milage,price,registration
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Toyota,Corolla,2004,Used,Saloon,Octane,"1,500 cc",75632,980000,
+Toyota,Allion,2005,Used,Saloon,"CNG, Octane","1,500 cc",57325,1180000,2007
+Toyota,Axio,2013,Used,Hatchback,Octane,"1,500 cc",35487,1550000,2016
+Toyota,Harrier,2015,Used,SUV / 4x4,"Petrol, Octane","2,000 cc",49064,5350000,2016
+Toyota,Land Cruiser,2011,Used,SUV / 4x4,Diesel,"4,500 cc",37210,12500000,2011
+Nissan,X-Trail,2014,Used,SUV / 4x4,Octane,"2,000 cc",32138,3300000,2015
+Toyota,Premio,2015,Used,Saloon,Octane,"1,500 cc",33000,2350000,2017
+Toyota,Prius,2016,Reconditioned,Estate,Hybrid,"1,800 cc",63300,3090000,
+Toyota,Prius,2015,Reconditioned,Saloon,Hybrid,"1,800 cc",84250,2490000,
+Toyota,Noah,2014,Reconditioned,MPV,Hybrid,"1,800 cc",38000,2650000,
+Toyota,Prius,2015,Reconditioned,Estate,Hybrid,"1,800 cc",49338,2870000,
+Toyota,Esquire,2015,Reconditioned,MPV,Hybrid,"1,800 cc",86029,3150000,
+Toyota,Auris,2016,Reconditioned,Hatchback,"Hybrid, Octane","1,800 cc",34000,2500000,
+Toyota,Prado,2013,Used,SUV / 4x4,Octane,"2,700 cc",46200,7350000,2016
+BMW,320i,2007,Used,Saloon,Octane,"2,000 cc",66948,3500000,2015
+Toyota,Crown,2003,Used,Saloon,Octane,"2,000 cc",57000,1920000,2009
+Proton,Preve,2015,Used,Saloon,Octane,"1,600 cc",10972,1050000,2016
+Toyota,Land Cruiser,2015,Used,MPV,Diesel,"4,500 cc",17259,17000000,2015
+Land Rover,Defender,1997,Used,SUV / 4x4,Diesel,"2,400 cc",68000,1350000,2020
+Kia,Optima,2012,Used,Saloon,Octane,"2,000 cc",66144,2050000,2012
+Toyota,Allion,2009,Used,Saloon,Octane,"1,500 cc",53254,1580000,2010
+Hyundai,Tucson,2011,Used,SUV / 4x4,Octane,"2,000 cc",46852,1950000,2011
+Mitsubishi,Pajero,2003,Used,SUV / 4x4,Octane,"3,000 cc",64291,2450000,2004
+Toyota,Land Cruiser,2005,Used,SUV / 4x4,Octane,"2,700 cc",68397,3350000,2005
+Toyota,Prius,2016,Reconditioned,Saloon,Hybrid,"1,800 cc",9952,2590000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Toyota,Prius,2016,Reconditioned,Saloon,Hybrid,"1,800 cc",45686,2770000,
+Toyota,Allion,2010,Used,Saloon,"CNG, Octane","1,500 cc",47240,1650000,2015
+Nissan,X-Trail,2010,Used,SUV / 4x4,Octane,"2,000 cc",48000,2100000,2015
+Toyota,Allion,2012,Used,Saloon,Octane,"1,500 cc",57000,1770000,2015
+Toyota,Harrier,2015,Reconditioned,SUV / 4x4,Hybrid,"2,500 cc",42041,6070000,
+Toyota,Prado,2004,Used,SUV / 4x4,Octane,"2,700 cc",57210,3500000,2008
+Toyota,Premio,2015,Used,Saloon,Octane,"1,500 cc",41267,2290000,2015
+Toyota,Axio,2012,Used,Saloon,Octane,"1,500 cc",39602,1520000,2017
+Toyota,Axio,2008,Used,Saloon,"CNG, Octane","1,500 cc",49175,1220000,2013
+Toyota,Noah,2011,Used,MPV,"CNG, Octane","2,000 cc",47625,2120000,2015
+Toyota,Noah,2012,Used,MPV,Octane,"2,000 cc",45308,2200000,2016
+Toyota,Axio,2010,Used,Hatchback,Octane,"1,500 cc",50139,1300000,2016
+Toyota,Auris,2013,Used,Hatchback,Octane,"1,500 cc",25000,1780000,2019
+Toyota,Premio,2008,Used,Saloon,Octane,"1,500 cc",56705,1690000,2012
+Volkswagen,Touareg,2011,Used,SUV / 4x4,Diesel,"3,000 cc",78365,6700000,2011
+Toyota,Premio,2014,Used,Saloon,Octane,"1,500 cc",26900,2180000,2015
+Toyota,Harrier,2006,Used,SUV / 4x4,Octane,"2,400 cc",41000,2550000,2009
+Hyundai,Tucson,2011,Used,SUV / 4x4,Octane,"2,000 cc",29500,1850000,2012
+Toyota,Premio,2012,Used,Saloon,Octane,"1,500 cc",37000,2070000,2015
+Toyota,Premio,2007,Used,Saloon,"CNG, Octane","1,500 cc",75000,1550000,2008
+Mazda,Axela,2004,Used,Saloon,Octane,"1,500 cc",85000,820000,2007
+Toyota,Premio,2011,Used,Saloon,"CNG, Octane","1,500 cc",55000,1820000,2014
+Nissan,X-Trail,2009,Used,SUV / 4x4,Octane,"2,000 cc",40135,2080000,2015
+Toyota,Corolla,2018,Reconditioned,Hatchback,"Hybrid, Octane","1,800 cc",10000,3200000,
+Toyota,Allion,2010,Used,Saloon,"CNG, Octane","1,500 cc",55135,1640000,2013
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Toyota,Noah,2009,Used,MPV,"CNG, Octane","2,000 cc",56000,1760000,2014
+Volkswagen,CC,2014,Used,Saloon,Octane,"1,400 cc",22000,3700000,2014
+Toyota,Axio,2014,Reconditioned,Saloon,"Petrol, CNG, Octane","1,500 cc",51250,1649000,
+Toyota,Premio,2006,Used,Saloon,"CNG, Octane","1,500 cc",64565,1440000,2018
+Hyundai,H1,2012,Used,MPV,Diesel,"2,400 cc",38566,1700000,2012
+Toyota,Axio,2014,Reconditioned,Saloon,"Petrol, Hybrid, Octane","1,500 cc",48500,1529000,
+Toyota,Axio,2014,Reconditioned,Saloon,"Petrol, CNG, Octane","1,500 cc",48350,1649000,
+Toyota,Prado,2015,Used,SUV / 4x4,"Petrol, Octane","2,700 cc",31216,9150000,2015
+Toyota,Allion,2016,Reconditioned,Saloon,Octane,"1,500 cc",16270,2580000,
+Toyota,Hilux,2010,Used,,Diesel,"2,500 cc",66241,2650000,2010
+Toyota,Allion,2016,Reconditioned,Saloon,Octane,"1,500 cc",18439,2610000,
+BMW,5 Series,2015,Used,Saloon,Octane,"2,000 cc",54203,6850000,2015
+Toyota,Allion,2016,Reconditioned,Saloon,Octane,"1,500 cc",71139,2810000,
+Toyota,Allion,2016,Reconditioned,Saloon,Octane,"1,500 cc",36039,2780000,
+Toyota,Allion,2016,Reconditioned,Saloon,Octane,"1,500 cc",28914,3160000,
+Toyota,Premio,2016,Reconditioned,Saloon,Octane,"1,500 cc",44601,2850000,
+Toyota,Premio,2016,Reconditioned,Saloon,Octane,"1,500 cc",54904,2970000,
+Toyota,Premio,2016,Reconditioned,Saloon,Octane,"1,500 cc",25992,3270000,
+Toyota,Premio,2016,Reconditioned,Saloon,Octane,"1,500 cc",36116,3250000,
+Nissan,Sunny,2007,Used,Saloon,Octane,"1,300 cc",62062,730000,2007
+Toyota,Premio,2016,Reconditioned,Saloon,Octane,"1,500 cc",26658,3410000,
+Toyota,Land Cruiser,2015,Used,SUV / 4x4,Octane,"2,700 cc",37150,9100000,2016
+Toyota,Allion,2017,Reconditioned,Saloon,Octane,"1,500 cc",11035,2960000,
+Nissan,X-Trail,2008,Used,SUV / 4x4,Octane,"2,000 cc",41023,1850000,2011
+Toyota,Allion,2003,Used,Saloon,"CNG, Octane","1,500 cc",62376,1170000,2008
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+BMW,520d,2010,Used,Saloon,Diesel,"2,000 cc",51071,4500000,2011
+Toyota,Premio,2017,Reconditioned,Saloon,Octane,"1,500 cc",5189,3220000,
+Audi,A3,2011,Used,Hatchback,Octane,"1,390 cc",20000,2650000,2014
+Honda,City,2007,Used,Saloon,Octane,"1,500 cc",45126,820000,2007
+Toyota,Premio,2013,Used,Saloon,"CNG, Octane","1,500 cc",34297,2230000,2015
+Toyota,Premio,2017,Reconditioned,Saloon,Octane,"1,500 cc",34709,3320000,
+Toyota,Premio,2017,Reconditioned,Saloon,Octane,"1,500 cc",32373,3490000,
+Toyota,Premio,2017,Reconditioned,Saloon,Octane,"1,500 cc",38360,3460000,
+Toyota,Premio,2004,Used,Saloon,"CNG, Octane","1,500 cc",65241,1320000,2009
+Toyota,Allion,2016,Reconditioned,Saloon,Octane,"1,500 cc",26854,2800000,
+Toyota,Prado,2010,Used,SUV / 4x4,Diesel,"3,000 cc",40226,6800000,2010
+Kia,Sportage,2015,Used,SUV / 4x4,Octane,"2,000 cc",9765,2895000,2017
+Nissan,Sylphy,2013,Used,Saloon,Octane,"1,600 cc",55000,1850000,2014
+Toyota,Prado,2004,Used,SUV / 4x4,Octane,"2,700 cc",55205,3700000,2005
+Toyota,Noah,2014,Used,MPV,"Hybrid, Octane","1,800 cc",29752,2500000,2018
+Toyota,Prado,2002,Used,SUV / 4x4,Octane,"2,700 cc",68205,3250000,2005
+Toyota,Prado,2008,Used,SUV / 4x4,Diesel,"3,000 cc",49228,4900000,2016
+Toyota,Prado,2011,Used,SUV / 4x4,Octane,"2,700 cc",37000,6550000,2014
+Hyundai,H1,2013,Used,MPV,Octane,"2,400 cc",11300,2370000,2014
+Toyota,Premio,2014,Used,Saloon,Octane,"1,500 cc",34000,2295000,2017
+Toyota,RAV4,2005,Used,SUV / 4x4,"Petrol, Octane","1,800 cc",49351,1790000,2010
+Toyota,Camry,2007,Used,Saloon,Octane,"2,400 cc",24513,1800000,2008
+Toyota,ist,2008,Used,Hatchback,Octane,"1,500 cc",48000,1095000,2014
+Toyota,Allion,2014,Reconditioned,Saloon,Octane,"1,500 cc",9241,2350000,
+Toyota,Prado,2004,Used,SUV / 4x4,Octane,"2,700 cc",63144,3500000,2009
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Honda,S660,2015,Reconditioned,Saloon,Octane,660 cc,35246,2500000,
+Toyota,Noah,2011,Used,MPV,Octane,"2,000 cc",65300,2050000,2014
+Toyota,Vitz,2011,Used,Hatchback,Octane,"1,320 cc",47263,1050000,2017
+Mitsubishi,Lancer,2006,Used,Saloon,Octane,"1,500 cc",46482,755000,2010
+Toyota,Land Cruiser,2012,Used,SUV / 4x4,Octane,"2,700 cc",41643,6950000,2017
+Toyota,Land Cruiser,2014,Used,SUV / 4x4,Octane,"2,700 cc",31241,7900000,2015
+Audi,A6,2013,Used,Saloon,Octane,"2,000 cc",24839,5450000,2013
+Toyota,Corolla,2004,Used,Saloon,Octane,"1,500 cc",52162,1150000,2009
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Toyota,Prius,2015,Reconditioned,Hatchback,Hybrid,"1,800 cc",28900,2450000,
+Toyota,Prius,2015,Reconditioned,Hatchback,"Hybrid, Octane","1,800 cc",32000,2400000,
+Nissan,Bluebird,2011,Used,Saloon,Octane,"1,500 cc",63000,1280000,2012
+Lexus,NX,2014,Reconditioned,SUV / 4x4,Octane,"2,000 cc",24400,8700000,
+Toyota,Hiace,2012,Used,,"CNG, Octane","2,000 cc",78406,2020000,2017
+Toyota,Prado,2010,Used,,Diesel,"3,000 cc",13039,7900000,2015
+Hyundai,Sonata,2011,Used,Saloon,Octane,"2,000 cc",28000,2100000,2011
+Honda,CR-V,2013,Used,SUV / 4x4,Octane,"2,000 cc",41446,2850000,2015
+Mitsubishi,Lancer,2006,Used,Saloon,Octane,"1,600 cc",67452,680000,2006
+Toyota,Hiace,2011,Used,MPV,"CNG, Octane","2,000 cc",45216,2200000,2016
+Nissan,Sunny,2008,Used,Saloon,Octane,"1,300 cc",53241,735000,2008
+Toyota,Premio,2010,Used,Saloon,"CNG, Octane","1,500 cc",56264,1780000,2011
+Nissan,X-Trail,2006,Used,SUV / 4x4,Octane,"2,000 cc",65784,1350000,2006
+Hyundai,Tucson,2012,Used,SUV / 4x4,Octane,"2,000 cc",32048,1950000,2012
+Mercedes-Benz,C200,2002,Used,Saloon,Octane,"2,000 cc",50082,2000000,2003
+Toyota,C-HR,2017,Reconditioned,,Hybrid,"1,800 cc",7385,3420000,
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Toyota,C-HR,2017,Reconditioned,,Hybrid,"1,800 cc",52725,3390000,
+Toyota,Noah,2016,Reconditioned,MPV,Hybrid,"1,800 cc",82549,3220000,
+Honda,Vezel,2015,Reconditioned,,Hybrid,"1,500 cc",53198,2740000,
+Nissan,Sylphy,2005,Used,Saloon,"CNG, Octane","1,500 cc",187800,730000,2010
+Toyota,Prado,2004,Used,SUV / 4x4,Octane,"2,700 cc",55000,3700000,2005
+Honda,Vezel,2016,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",40492,3090000,
+Toyota,Aqua,2012,Used,Hatchback,"Petrol, Hybrid, Octane","1,500 cc",43025,1090000,2018
+Honda,Vezel,2016,Reconditioned,,Octane,"1,500 cc",42674,3150000,
+Toyota,Harrier,2016,Reconditioned,,Octane,"2,000 cc",44519,6490000,
+Toyota,Prado,2015,Reconditioned,SUV / 4x4,Octane,"2,700 cc",41815,10700000,
+Toyota,Prado,2017,Reconditioned,SUV / 4x4,Octane,"2,700 cc",9887,12900000,
+Toyota,Mark II,2004,Used,Saloon,Octane,"2,000 cc",53000,1340000,2008
+Toyota,Prado,2017,Reconditioned,SUV / 4x4,Octane,"2,700 cc",3975,13400000,
+Toyota,Premio,2009,Used,Saloon,Octane,"1,500 cc",49000,1690000,2010
+Nissan,Sunny,2009,Used,Saloon,Octane,"1,300 cc",62062,750000,2009
+Toyota,Premio,2010,Used,Saloon,"CNG, Octane","1,500 cc",52297,1880000,2012
+Toyota,Rush,2011,Used,SUV / 4x4,Octane,"1,500 cc",41499,1400000,2015
+Toyota,Noah,2011,Used,MPV,Octane,"2,000 cc",51321,2080000,2017
+Honda,Vezel,2014,Used,SUV / 4x4,Octane,"1,500 cc",29234,2150000,2016
+Honda,Vezel,2014,Used,SUV / 4x4,Octane,"1,500 cc",51345,2120000,2014
+Toyota,Crown,2004,Used,Saloon,Octane,"2,500 cc",76894,2280000,2009
+Toyota,Fortuner,2009,Used,SUV / 4x4,Octane,"2,700 cc",45285,3780000,2018
+Toyota,Hilux,1999,Used,SUV / 4x4,"CNG, Octane","2,700 cc",84723,1010000,2004
+Toyota,Premio,2008,Used,Saloon,Octane,"1,500 cc",68000,1680000,2009
+Toyota,Prado,2000,Used,SUV / 4x4,Diesel,"2,800 cc",65241,2150000,2007
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Mitsubishi,Lancer,2004,Used,Saloon,Octane,"1,500 cc",53241,710000,2010
+Toyota,Avanza,2014,Used,Estate,"Hybrid, Octane","1,500 cc",32415,1850000,2015
+Mitsubishi,l200,2011,Used,SUV / 4x4,Diesel,"2,500 cc",55100,2750000,2012
+Toyota,Fielder,2009,Used,Estate,"CNG, Octane","1,500 cc",65805,1290000,2015
+Honda,Accord,2003,Used,Saloon,Octane,"2,254 cc",111321,850000,2003
+Subaru,Impreza,2010,Used,Saloon,Octane,"1,500 cc",57325,1280000,2016
+Honda,Civic,2004,Used,Saloon,"Petrol, Octane","1,500 cc",56000,775000,2004
+Toyota,Corolla,1996,Used,Saloon,"CNG, Octane","1,331 cc",80000,450000,2001
+Toyota,Mark X,2006,Used,Saloon,Octane,"2,500 cc",45000,2400000,2010
+Hyundai,Accent,2012,Used,Saloon,Octane,"1,400 cc",41000,1150000,2012
+Mitsubishi,GLX,2006,Used,Saloon,"Petrol, Octane","1,500 cc",47000,790000,2017
+Mercedes-Benz,Other Model,2007,Used,Hatchback,"Petrol, Octane","1,500 cc",37000,1495000,2012
+Toyota,Allion,2005,Used,Saloon,"Petrol, CNG, Octane","1,500 cc",58000,1320000,2011
+Mitsubishi,GLX,2005,Used,Saloon,"Petrol, Octane","1,500 cc",52000,730000,2012
+Honda,Civic,2004,Used,Saloon,"Petrol, Octane","1,500 cc",49000,790000,2010
+Toyota,Land Cruiser,2004,Used,SUV / 4x4,"Petrol, Octane","2,700 cc",58000,3450000,2005
+Honda,CR-V,2018,Reconditioned,SUV / 4x4,"Petrol, Octane","1,500 cc",12000,5650000,
+Toyota,Premio,2005,Used,Saloon,"Petrol, CNG, Octane","1,500 cc",65000,1230000,2007
+Toyota,Corolla,2008,Used,Saloon,"Petrol, Octane","1,500 cc",88000,1220000,2008
+Toyota,Yaris,2008,Used,Saloon,"Petrol, CNG, Octane","1,300 cc",59000,890000,2009
+Toyota,Allion,2007,Used,Saloon,"Petrol, CNG, Octane","1,500 cc",58000,1430000,2008
+Suzuki,Swift,2013,Used,Saloon,"Petrol, Octane","1,200 cc",34000,755000,2013
+Toyota,Prado,2000,Used,SUV / 4x4,"Petrol, Octane","2,700 cc",77000,1790000,2001
+Honda,Civic,2005,Used,Saloon,"Petrol, Octane","1,500 cc",56000,790000,2005
+Toyota,Noah,2014,Used,MPV,"Hybrid, Octane","1,800 cc",22000,2500000,2018
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Toyota,Wish,2010,Used,Estate,Octane,"1,800 cc",50685,1920000,2015
+Honda,Civic,2004,Used,Saloon,"Petrol, Octane","1,500 cc",73000,730000,2010
+Nissan,March,2005,Used,Hatchback,"Petrol, Octane","1,300 cc",42000,530000,2012
+Toyota,Aqua,2015,Reconditioned,Hatchback,Hybrid,"1,500 cc",26853,1400000,
+Toyota,Axio,2012,Used,Estate,Octane,"1,500 cc",45216,1460000,2018
+Nissan,Patrol,2004,Used,SUV / 4x4,Diesel,"4,200 cc",53241,3800000,2004
+Toyota,Allion,2014,Reconditioned,Saloon,Octane,"1,500 cc",34152,2580000,
+Toyota,Premio,2011,Used,Saloon,Octane,"1,500 cc",24513,1950000,2013
+Toyota,Allion,2014,Used,Saloon,Octane,"1,500 cc",67637,2250000,2016
+Toyota,Harrier,2005,Used,SUV / 4x4,Octane,"2,400 cc",38327,2680000,2008
+Nissan,Bluebird,2006,Used,Saloon,Octane,"1,500 cc",66995,1120000,2010
+Toyota,Allion,2006,Used,Saloon,Octane,"1,500 cc",73351,1300000,2007
+Toyota,RAV4,2005,Used,SUV / 4x4,"Octane, Other fuel type","2,400 cc",54234,1820000,2009
+Toyota,Harrier,2014,Reconditioned,SUV / 4x4,Octane,"2,000 cc",1111,5680000,
+Toyota,Hiace,2003,Used,MPV,"CNG, Octane","1,995 cc",22000,555000,2007
+Toyota,Land Cruiser,2004,Used,SUV / 4x4,Octane,"2,700 cc",57221,3300000,2006
+Toyota,Hilux,2015,Used,,Diesel,"2,500 cc",45642,3500000,2015
+Toyota,Vios,2015,Used,Saloon,Octane,"1,500 cc",49433,1720000,2015
+Honda,Vezel,2014,Used,SUV / 4x4,Octane,"1,500 cc",29000,2050000,2016
+Toyota,RAV4,2003,Used,SUV / 4x4,"CNG, Octane","1,800 cc",62212,1500000,2009
+Toyota,Axio,2010,Used,Saloon,"CNG, Octane","1,500 cc",49000,1340000,2015
+Toyota,Axio,2007,Used,Saloon,"CNG, Octane","1,500 cc",54052,1150000,2012
+Kia,Sportage,2011,Used,SUV / 4x4,Octane,"2,000 cc",55596,1890000,2011
+Honda,Vezel,2013,Used,SUV / 4x4,Octane,"1,500 cc",16324,2090000,2014
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Toyota,Prado,2014,Used,SUV / 4x4,Octane,"2,700 cc",21563,8100000,2015
+Hyundai,Tucson,2012,Used,SUV / 4x4,Octane,"2,000 cc",32293,1920000,2013
+BMW,X5,2004,Used,SUV / 4x4,Octane,"4,400 cc",68569,3250000,2005
+Hyundai,Tucson,2016,Used,SUV / 4x4,Octane,"2,000 cc",21423,3350000,2016
+Toyota,Prado,1998,Used,SUV / 4x4,Diesel,"2,800 cc",65236,1950000,2006
+Nissan,Sunny,2006,Used,Saloon,"CNG, Octane","1,300 cc",52364,670000,2006
+Toyota,Allion,2014,Used,Saloon,Octane,"1,500 cc",48287,2180000,2016
+Toyota,Noah,2010,Used,MPV,Octane,"2,000 cc",27845,2260000,2017
+Toyota,Aqua,2013,Used,Hatchback,"Hybrid, Octane","1,500 cc",42207,1190000,2018
+Toyota,Harrier,2015,Used,SUV / 4x4,Octane,"2,000 cc",22308,4900000,2016
+Lexus,NX,2015,Reconditioned,SUV / 4x4,"Electric, Octane","2,500 cc",31000,6550000,
+Toyota,Prius,2015,Reconditioned,Saloon,"Hybrid, Octane","1,800 cc",48000,2750000,
+Toyota,Premio,2007,Used,Saloon,"CNG, Octane","1,500 cc",55000,1570000,2008
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Toyota,Noah,2010,Used,MPV,Octane,"2,000 cc",52000,2000000,2015
+Toyota,Noah,2010,Used,MPV,"CNG, Octane","2,000 cc",52000,1950000,2015
+Toyota,Premio,2006,Used,Saloon,"CNG, Octane","1,500 cc",99550,1320000,2008
+Toyota,Land Cruiser,2010,Used,SUV / 4x4,Diesel,"3,000 cc",48643,6850000,2010
+Toyota,Allion,2010,Used,Saloon,"CNG, Octane","1,500 cc",70000,1640000,2013
+Toyota,Premio,2008,Used,Saloon,"CNG, Octane","1,500 cc",75000,1650000,2013
+Mitsubishi,Pajero,2008,Used,SUV / 4x4,Octane,"3,000 cc",82000,4250000,2008
+Toyota,Axio,2008,Used,Saloon,"CNG, Octane","1,500 cc",67000,1150000,2012
+Mercedes-Benz,B160,2010,Used,Hatchback,Octane,"1,500 cc",33000,2450000,2011
+Toyota,Axio,2008,Used,Saloon,"CNG, Octane","1,500 cc",56278,1160000,2012
+Toyota,Hilux,2004,Used,SUV / 4x4,Octane,"2,700 cc",65263,2550000,2008
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Toyota,Corolla,2006,Used,Saloon,"CNG, Octane","1,500 cc",75000,1100000,2010
+Lexus,Harrier,2009,Used,SUV / 4x4,Octane,"2,400 cc",41000,3550000,2014
+BMW,X4,2015,Used,SUV / 4x4,Octane,"2,000 cc",43143,7000000,2015
+Toyota,Allion,2010,Used,Saloon,"CNG, Octane","1,500 cc",57000,1700000,2013
+Honda,CR-V,2012,Used,SUV / 4x4,Octane,"2,000 cc",40439,2550000,2012
+Honda,Vezel,2014,Used,SUV / 4x4,Hybrid,"1,500 cc",45000,2000000,2018
+Mitsubishi,Pajero,2004,Used,SUV / 4x4,Octane,"3,000 cc",45862,2550000,2006
+Toyota,Carina,1993,Used,Saloon,"CNG, Octane","1,500 cc",87000,400000,1998
+Toyota,Axio,2010,Used,Saloon,"CNG, Octane","1,500 cc",38000,1430000,2017
+Toyota,Allion,2011,Used,Saloon,"CNG, Octane","1,500 cc",43000,1840000,2015
+Toyota,Hiace,2010,Used,MPV,"CNG, Octane","2,000 cc",48000,1700000,2016
+Toyota,Avanza,2014,Used,Saloon,Octane,"1,500 cc",39685,1720000,2014
+Mercedes-Benz,E 240,2003,Used,Saloon,Octane,"2,500 cc",95000,2150000,2003
+Toyota,Axio,2014,Reconditioned,Saloon,Octane,"1,500 cc",68264,1710000,
+Nissan,X-Trail,2012,Used,SUV / 4x4,"Petrol, Octane","2,000 cc",62376,2380000,2017
+Toyota,Corolla,2003,Used,Saloon,"CNG, Octane","1,500 cc",85000,960000,2007
+Honda,Jade,2015,Reconditioned,Hatchback,"Hybrid, Octane","1,500 cc",25000,2450000,
+Toyota,Axio,2013,Used,Saloon,"CNG, Octane","1,500 cc",45000,1620000,2018
+Toyota,Rush,2011,Used,SUV / 4x4,Octane,"1,500 cc",41000,1580000,2014
+Kia,Sportage,2011,Used,SUV / 4x4,Octane,"2,000 cc",45000,1850000,2012
+Toyota,Noah,2007,Used,MPV,"CNG, Octane","2,000 cc",69528,1475000,2010
+Nissan,X-Trail,2015,Used,SUV / 4x4,Hybrid,"2,000 cc",44000,3100000,2018
+Toyota,Allion,2007,Used,Saloon,Octane,"1,500 cc",75000,1450000,2009
+Nissan,Bluebird,2008,Used,Saloon,Octane,"1,500 cc",55000,1120000,2009
+Nissan,X-Trail,2014,Reconditioned,SUV / 4x4,Octane,"2,000 cc",97000,4250000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Toyota,Corolla,2004,Used,Saloon,"CNG, Octane","1,500 cc",65000,1140000,2010
+Mazda,Axela,2006,Used,Saloon,Octane,"1,500 cc",44000,830000,2014
+Toyota,Fielder,2015,Reconditioned,Hatchback,"Hybrid, Octane","1,500 cc",31000,2050000,
+Toyota,Harrier,2007,Used,SUV / 4x4,Octane,"2,400 cc",95000,2550000,2008
+Honda,Grace,2016,Reconditioned,Saloon,Hybrid,"1,500 cc",23241,2300000,
+Honda,Fit,2015,Reconditioned,Hatchback,Octane,"1,500 cc",25263,1400000,
+Toyota,Premio,2004,Used,Saloon,"CNG, Octane","1,500 cc",37567,1265000,2008
+Toyota,Axio,2014,Reconditioned,Saloon,"Petrol, Hybrid, Octane","1,500 cc",48825,1540000,
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",19856,1750000,
+Toyota,Aqua,2014,Used,Hatchback,"Hybrid, Octane","1,500 cc",26461,1350000,2019
+Toyota,Axio,2012,Used,Saloon,Octane,"1,500 cc",62827,1530000,2017
+Toyota,Camry,2015,Reconditioned,Saloon,"Hybrid, Octane","2,500 cc",21000,3600000,
+Hyundai,Tucson,2010,Used,SUV / 4x4,Octane,"2,000 cc",19126,1950000,2010
+Toyota,Premio,2015,Used,Saloon,Octane,"1,500 cc",15277,2420000,2018
+Mitsubishi,Colt,2006,Used,Hatchback,"Petrol, Octane","1,500 cc",35473,880000,2007
+Honda,Shuttle,2015,Reconditioned,Hatchback,"Hybrid, Octane","1,500 cc",31000,2100000,
+Honda,CR-V,2015,Reconditioned,SUV / 4x4,Octane,"2,000 cc",18652,3800000,
+Honda,Civic,2018,Reconditioned,Saloon,Octane,"1,500 cc",13254,3800000,
+Toyota,Prado,2006,Used,MPV,Octane,"2,700 cc",85000,3700000,2008
+Toyota,Aqua,2014,Reconditioned,Hatchback,"Petrol, Hybrid, Octane","1,500 cc",51350,1350000,
+Toyota,Premio,2009,Used,Saloon,Octane,"1,500 cc",48000,1840000,2010
+Toyota,C-HR,2016,Reconditioned,SUV / 4x4,"Hybrid, Electric, Octane","1,800 cc",32000,2980000,
+Toyota,Axio,2011,Used,Saloon,Octane,"1,500 cc",42000,1430000,2018
+Honda,Vezel,2014,Used,SUV / 4x4,Hybrid,"1,500 cc",44000,2080000,2017
+Toyota,Premio,2016,Reconditioned,Saloon,Octane,"1,500 cc",23213,2900000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Toyota,Fielder,2006,Used,Estate,"Petrol, CNG, Octane","1,500 cc",57274,1150000,2010
+Toyota,Fortuner,2006,Used,SUV / 4x4,"Petrol, Octane","2,700 cc",49624,3200000,2007
+Honda,City,2009,Used,Saloon,"Petrol, Octane","1,500 cc",39900,1090000,2015
+Honda,CR-V,1999,Used,SUV / 4x4,"CNG, Octane","2,000 cc",75000,870000,2003
+Toyota,Axio,2006,Used,Saloon,"Petrol, Octane","1,500 cc",63169,1250000,2010
+Kia,Sportage,2011,Used,SUV / 4x4,Octane,"2,000 cc",45263,1900000,2011
+Toyota,Axio,2013,Used,Saloon,"Petrol, Octane","1,500 cc",34237,1460000,2017
+Suzuki,Wagon R,2009,Used,Hatchback,"Petrol, Octane","1,100 cc",33780,550000,2009
+Toyota,Ractis,2011,Used,Hatchback,"Petrol, Octane","1,500 cc",31337,1280000,2016
+Kia,Sportage,2011,Used,SUV / 4x4,"Petrol, Octane","2,000 cc",55466,1950000,2011
+Mitsubishi,Outlandar,2015,Reconditioned,SUV / 4x4,"Hybrid, Electric, Octane","2,000 cc",40000,4700000,
+Honda,CR-V,2018,Reconditioned,SUV / 4x4,"Petrol, Octane","1,500 cc",12000,5160000,
+Honda,CR-V,2006,Used,SUV / 4x4,Octane,"2,000 cc",78000,1400000,2006
+Mitsubishi,Pajero,2006,Used,SUV / 4x4,Octane,"3,828 cc",117500,2600000,2018
+Honda,Vezel,2016,Reconditioned,SUV / 4x4,"Hybrid, Octane","1,500 cc",32000,2850000,
+Mazda,MX-5,2015,Reconditioned,Coupé/Sports,Octane,"1,500 cc",32000,2900000,
+Toyota,Harrier,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,500 cc",29957,5800000,
+Nissan,X-Trail,2017,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",25000,4080000,
+BMW,X5,2014,Used,SUV / 4x4,Diesel,"2,000 cc",19000,9700000,2014
+Toyota,Allion,2011,Used,Saloon,"CNG, Octane","1,500 cc",49000,1790000,2015
+Toyota,Premio,2004,Used,Saloon,"CNG, Octane","1,500 cc",82000,1350000,2009
+Toyota,Premio,2005,Used,Saloon,"CNG, Octane","1,500 cc",75000,1320000,2009
+Kia,Sportage,2005,Used,SUV / 4x4,Octane,"1,800 cc",100000,870000,2005
+Mitsubishi,Pajero,2011,Used,SUV / 4x4,Octane,"3,000 cc",37578,5850000,2011
+Toyota,Axio,2014,Reconditioned,Saloon,"Petrol, Hybrid, Octane","1,500 cc",48534,1540000,
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Toyota,Noah,2011,Used,MPV,"CNG, Octane","2,000 cc",65000,2190000,2017
+Toyota,Aqua,2013,Reconditioned,Hatchback,Hybrid,"1,500 cc",46000,1350000,
+Toyota,Allion,2007,Used,Saloon,"CNG, Octane","1,500 cc",95500,1490000,2008
+Toyota,Belta,2005,Used,Saloon,"Petrol, CNG, Octane","1,300 cc",56000,745000,2008
+Nissan,Sunny,2009,Used,Saloon,Octane,"1,300 cc",85000,750000,2009
+Toyota,Avanza,2014,Used,Saloon,Octane,"1,500 cc",68000,1650000,2014
+Toyota,Fielder,2015,Reconditioned,Estate,Hybrid,"1,500 cc",25236,1750000,
+Honda,Freed,2015,Reconditioned,Estate,Hybrid,"1,500 cc",32145,1900000,
+Toyota,Axio,2008,Used,Saloon,"CNG, Octane","1,500 cc",55222,1225000,2012
+BMW,X5,2006,Used,SUV / 4x4,Octane,"4,800 cc",29000,4400000,2006
+Mitsubishi,l200,2007,Used,SUV / 4x4,Octane,"2,400 cc",200000,850000,2007
+Great Wall,H2,2010,Used,SUV / 4x4,"CNG, Octane","2,400 cc",55000,650000,2012
+Honda,Civic,2004,Used,Saloon,"Petrol, Octane","1,500 cc",49000,790000,2010
+Honda,Civic,2005,Used,Saloon,"Petrol, Octane","1,500 cc",56000,790000,2005
+Honda,Civic,2004,Used,Saloon,"Petrol, Octane","1,500 cc",59000,790000,2009
+Toyota,Prado,2000,Used,SUV / 4x4,"Petrol, Octane","2,700 cc",77000,1790000,2001
+Toyota,Allion,2015,Reconditioned,Saloon,Octane,"1,500 cc",28965,2400000,
+Toyota,Harrier,2016,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,500 cc",25632,6500000,
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Toyota,Hiace,2015,Reconditioned,Saloon,Octane,"2,000 cc",25632,2700000,
+Mitsubishi,l200,2010,Used,Convertible,Diesel,"2,500 cc",72000,1950000,2010
+Toyota,Sienta,2015,Reconditioned,Estate,"Hybrid, Octane","1,500 cc",21253,2100000,
+Toyota,Auris,2015,Reconditioned,Hatchback,Octane,"1,500 cc",24512,1900000,
+Toyota,Fielder,2012,Used,Hatchback,Octane,"1,500 cc",42854,1375000,2017
+Toyota,Allion,2010,Used,,Octane,"1,500 cc",60800,1750000,2015
+Nissan,March,2005,Used,Hatchback,Octane,"1,300 cc",42000,530000,2012
+Toyota,Fielder,2014,Reconditioned,Estate,"Petrol, CNG, Octane","1,500 cc",51560,1640000,
+Toyota,Prado,2003,Used,SUV / 4x4,Octane,"2,700 cc",75000,3500000,2005
+BMW,7 Series,2016,Used,Saloon,"Electric, Octane","2,000 cc",5800,16500000,2017
+Toyota,Fielder,2014,Reconditioned,Estate,"Petrol, Hybrid, Octane","1,500 cc",48537,1530000,
+Toyota,Alphard,2015,Reconditioned,MPV,Hybrid,"2,500 cc",19856,7700000,
+Honda,Jade,2015,Reconditioned,Saloon,Hybrid,"1,500 cc",19856,2500000,
+Nissan,Patrol,2003,Used,SUV / 4x4,Petrol,"4,800 cc",88000,3200000,2003
+Mazda,Axela,2004,Used,Saloon,Octane,"1,500 cc",48000,750000,2010
+Toyota,Premio,2015,Used,,"Petrol, Octane","1,500 cc",48000,2600000,
+Toyota,Corolla,2008,Used,Saloon,Octane,"1,500 cc",59000,1250000,2008
+Toyota,Crown,2015,Used,Saloon,"Hybrid, Octane","2,500 cc",25632,5500000,
+Mitsubishi,Pajero,2007,Used,SUV / 4x4,Octane,"3,000 cc",65427,3900000,2008
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Nissan,Bluebird,2006,Used,Saloon,Octane,"1,500 cc",48000,980000,2013
+Toyota,Prado,2015,Reconditioned,SUV / 4x4,Octane,"2,800 cc",18546,11000000,
+Lexus,HS 250h,2015,Reconditioned,Saloon,Hybrid,"2,400 cc",53246,5000000,
+Nissan,March,2003,Used,Hatchback,Octane,"1,300 cc",64253,580000,2008
+Toyota,Corolla,2005,Used,Saloon,"CNG, Octane","1,500 cc",75000,1110000,2010
+Toyota,Carina,1996,Used,Saloon,"CNG, Octane","1,500 cc",15000,280000,1996
+Toyota,Axio,2007,Used,Saloon,Octane,"1,500 cc",57369,1180000,2010
+Toyota,Axio,2011,Used,Saloon,"CNG, Octane","1,500 cc",38230,1420000,2015
+Toyota,Harrier,2014,Used,,Octane,"2,000 cc",28000,4800000,2014
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,Octane,"1,997 cc",39061,3790000,
+Toyota,Fielder,2014,Reconditioned,Estate,Octane,"1,500 cc",28372,1980000,
+Toyota,Noah,2014,Reconditioned,MPV,Octane,"1,800 cc",63400,2920000,
+Mazda,Axela,2004,Used,Saloon,Octane,"1,500 cc",45000,740000,2009
+Toyota,Prius,2014,Reconditioned,MPV,Octane,"1,800 cc",51918,2920000,
+Toyota,Crown,2016,Reconditioned,Saloon,Octane,"2,500 cc",20402,7290000,
+Toyota,Premio,2017,Reconditioned,Saloon,Octane,"1,500 cc",28704,3650000,
+Mitsubishi,Pajero,2006,Used,SUV / 4x4,Octane,"3,000 cc",33805,3750000,2008
+Suzuki,Swift,2009,Used,Hatchback,Octane,"1,300 cc",27548,490000,2011
+Toyota,Land Cruiser,2014,Used,SUV / 4x4,Octane,"2,700 cc",27460,7900000,2015
+Nissan,Sunny,2008,Used,Saloon,Octane,"1,500 cc",58220,670000,2009
+Toyota,Harrier,2016,Reconditioned,SUV / 4x4,Octane,"2,000 cc",11058,7020000,
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Nissan,X-Trail,2015,Reconditioned,SUV / 4x4,"Hybrid, Octane","2,000 cc",34000,3300000,
+Nissan,Bluebird,2006,Used,Saloon,Octane,"1,500 cc",48754,1155000,2017
+Toyota,Premio,2016,Reconditioned,,Octane,"1,500 cc",29735,3280000,
+Toyota,Premio,2016,Reconditioned,Saloon,Octane,"1,500 cc",42900,3480000,
+Toyota,Premio,2016,Reconditioned,Saloon,Octane,"1,500 cc",13388,2925000,
+Toyota,Allion,2016,Reconditioned,Saloon,Octane,"1,500 cc",17425,3080000,
+Hyundai,Elantra,2011,Used,Saloon,Octane,"1,600 cc",39000,1330000,2011
+Nissan,X-Trail,2011,Used,SUV / 4x4,Octane,"2,000 cc",35668,2330000,2017
+Toyota,Land Cruiser,2015,Used,SUV / 4x4,Diesel,"4,500 cc",26784,17500000,2018
+Toyota,Axio,2013,Reconditioned,,Octane,"1,500 cc",43000,1620000,
+Toyota,C-HR,2017,Reconditioned,SUV / 4x4,Hybrid,"1,800 cc",46000,3450000,
+Honda,Grace,2015,Reconditioned,Saloon,Hybrid,"1,500 cc",55000,2230000,
+Honda,Grace,2014,Reconditioned,Saloon,Hybrid,"1,500 cc",33000,2150000,
+Toyota,Prius,2014,Reconditioned,Saloon,Hybrid,"1,500 cc",44000,2650000,
+Honda,Vezel,2014,Used,SUV / 4x4,Octane,"1,500 cc",51000,2050000,
+Mitsubishi,Eclipse Cross,2018,Reconditioned,SUV / 4x4,"Petrol, Octane","1,500 cc",0,4300000,
+Honda,Shuttle,2015,Reconditioned,Hatchback,Hybrid,"1,500 cc",2000,2000000,
+Kia,Sportage,2012,Used,SUV / 4x4,Octane,"2,000 cc",40000,1685000,2012
+Jaguar,XF,2013,Used,Saloon,Octane,"2,000 cc",19005,6000000,2014
+Toyota,Avanza,2016,Used,Estate,Octane,"1,500 cc",22000,2280000,2016
+Toyota,Allion,2014,Reconditioned,Saloon,"Petrol, Octane","1,500 cc",13000,2350000,
+Toyota,Noah,2003,Used,MPV,"CNG, Octane","2,000 cc",85000,1235000,2009
+Toyota,Prado,2003,Used,SUV / 4x4,Octane,"2,700 cc",85000,1850000,2004
+Hyundai,Sonata,2010,Used,Saloon,Octane,"2,000 cc",38500,1850000,2011
+Honda,Vezel,2015,Reconditioned,SUV / 4x4,Hybrid,"1,500 cc",30000,2650000,
+Toyota,Axio,2015,Reconditioned,Saloon,"Hybrid, Octane","1,500 cc",38000,1800000,
+Mitsubishi,Pajero,2000,Used,SUV / 4x4,Diesel,"2,800 cc",85000,1850000,2003
+Toyota,Land Cruiser,2011,Used,SUV / 4x4,Diesel,"4,500 cc",47000,11850000,2012
+Nissan,Patrol,1993,Used,SUV / 4x4,Diesel,"4,200 cc",85000,1485000,1995
+Nissan,X-Trail,2006,Used,SUV / 4x4,Octane,"2,000 cc",75000,1450000,2010
+Toyota,Corolla,1999,Used,Saloon,"CNG, Octane","1,331 cc",95000,555000,2003
+Toyota,Aqua,2014,Reconditioned,,"Petrol, Other fuel type","1,500 cc",61000,1459999,
+Tata,Indica,2012,Used,,Octane,"1,200 cc",33000,1000000,2013
