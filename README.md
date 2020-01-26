@@ -21,13 +21,13 @@ learning algorithms but that is beyond the scope of this project. <br/> <br/>
 ## Using the Repository <br/>
 1. Clone the repository in your local directory.
 2. You will see two folders: <br/>
-  -service: This folder contains all the backend files written in Flask, which is responsible for making the predictions.
+  -**service**: This folder contains all the backend files written in Flask, which is responsible for making the predictions.
   The folder also contains two jupyter notebooks:
-    - Analytics.ipynp: This is an interactive notebook that runs some analytics.
-    - Model_Notebook.ipynb: This notebook outlines the steps I have taken to make the predictions, demonstrating data analysis,
+    - **Analytics.ipynp**: This is an interactive notebook that runs some analytics.
+    - **Model_Notebook.ipynb**: This notebook outlines the steps I have taken to make the predictions, demonstrating data analysis,
     data cleaning, feature selection. <br/> 
    
-    -ui: This folder contains the React files which make up the frontend of my website.
+    -**ui**: This folder contains the React files which make up the frontend of my website.
 ### Using The Notebooks:
 1. Go to the service/venv folder from your command line with the code ` cd service/venv `.
 2. Activate the environment and run Jupyter Notebook:
